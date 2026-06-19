@@ -15,7 +15,7 @@ const series = [
         descricao: "Uma série de animação que segue as aventuras de um cientista louco e seu neto em diferentes dimensões."
     },
     {
-        titulo: "supernatural",
+        titulo: "Supernatural",
         imagem: "https://media.themoviedb.org/t/p/w220_and_h330_face/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg",
         descricao: "Dois irmãos caçadores de criaturas sobrenaturais enfrentam demônios, fantasmas e outras entidades malignas."
     },
